@@ -4,13 +4,6 @@ Diction
 ============
 Diction is an Android app that improves your reading experience with verbal feedback of words, definitions, and synoyms simply with the tap of a word.
 
-Introduction
-------------
-
-Pre-requisites
---------------
-Android Play Services SDK level 26 or greater.
-
 Getting Started
 ---------------
 The app builds using Gradle in Android Studio.  There is no special
@@ -29,6 +22,8 @@ Resources
 
 License
 -------
+Google Vision API
+
 Copyright 2015 Google, Inc. All Rights Reserved.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
